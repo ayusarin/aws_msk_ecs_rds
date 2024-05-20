@@ -28,7 +28,6 @@ ecs_cpu                  = "256"
 ecs_memory               = "512"
 ecs_service_name         = "my-ecs-service"
 ecs_desired_count        = 2
-ecs_security_groups      = ["sg-12345678"]
 
 # Aurora variables
 aurora_cluster_identifier = "my-aurora-cluster"
